@@ -54,7 +54,7 @@ Currently working as a Student Learning Assistant, helping students understand t
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammadsalehi777/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammadsalehi2004/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MohammadSalehi2004)
 [![University Email](https://img.shields.io/badge/University_Email-red?style=for-the-badge&logo=gmail)](mailto:MS3593@live.mdx.ac.uk)
 [![Personal Email](https://img.shields.io/badge/Personal_Email-grey?style=for-the-badge&logo=gmail)](mailto:mohammaddxbsalehi@gmail.com)
